@@ -1,0 +1,9 @@
+[templates]
+	paths = ["templates/"]
+
+[assets]
+	path = "assets/"
+
+[watch]
+	static = ""
+	server = ""
